@@ -4,4 +4,5 @@ Base images to build projects
 
 ## Index
 
-- [For pure go projects](./go-builder)
+- [For Go projects](./go-builder)
+- [For Vue.js projects](./vue-builder)
